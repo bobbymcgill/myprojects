@@ -1,0 +1,14 @@
+{
+  "name": "mocha-tut",
+  "version": "1.0.0",
+  "description": "Following tutorial for mocha-testing framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^3.0.0"
+  }
+}
